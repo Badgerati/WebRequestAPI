@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequestAPI", "WebRequestAPI\WebRequestAPI.csproj", "{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRAPI_Test_Console", "WRAPI.Test.Console\WRAPI_Test_Console.csproj", "{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5E3C9AB3-ABA3-4F6E-8DE6-E731759FDC0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Debug|x86.ActiveCfg = Debug|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Debug|x86.Build.0 = Debug|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Release|Any CPU.ActiveCfg = Release|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Release|x86.ActiveCfg = Release|x86
+		{AA01B29D-4134-4FC7-9C3B-E4533D8F8B5C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
